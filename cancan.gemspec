@@ -1,11 +1,11 @@
 Gem::Specification.new do |s|
   s.name = "cancan"
-  s.summary = "Simple authorization solution for Rails."
+  s.summary = "Simple authorization solution for Rails.(fork from Ryan Bates gem)"
   s.description = "Simple authorization solution for Rails which is completely decoupled from the user's roles. All permissions are stored in a single location for convenience."
   s.homepage = "http://github.com/ryanb/cancan"
   
   s.version = "1.0.2"
-  s.date = "2009-12-30"
+  s.date = "2010-02-03"
   
   s.authors = ["Ryan Bates"]
   s.email = "ryan@railscasts.com"
