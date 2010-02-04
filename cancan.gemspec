@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = "cancan"
+  s.name = "fmalamitsas-cancan"
   s.summary = "Simple authorization solution for Rails."
   s.description = "Simple authorization solution for Rails which is completely decoupled from the user's roles. All permissions are stored in a single location for convenience."
   s.homepage = "http://github.com/ryanb/cancan"
